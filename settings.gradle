@@ -1,0 +1,2 @@
+rootProject.name = "Ball Jump"
+include ':app'
